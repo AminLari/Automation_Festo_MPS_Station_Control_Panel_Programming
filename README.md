@@ -3,7 +3,6 @@
 ## Overview
 Development of the **Control Panel logic** for the *Festo MPS Sorting Station* using **Siemens TIA Portal** and **S7-1500 PLC**.  
 This project focuses on programming the station’s control panel entirely in **Ladder Logic (LAD)** to manage manual/automatic operation modes and state transitions based on the control panel inputs.
-![Control Panel]()
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/74da6927-5a5f-4ce1-8a6b-320cef0c41d9" width="1000" alt="Control Panel">
