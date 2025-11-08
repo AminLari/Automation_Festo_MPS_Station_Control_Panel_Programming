@@ -60,6 +60,27 @@ Key transitions handle mode changes, start/stop commands, and reset actions as i
 Official reference:  
 🔗 [Festo MPS Sorting Station Documentation](https://ip.festo-didactic.com/Infoportal/MPS/Overview/EN/index.html)
 
+## Program Structure
+**1. Auto/Manual**
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/aaae4946-b01b-4cae-9374-a5cdf4ec1bbc" width="600">
+</p>
+
+**2. Transitions**
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3b28c0a9-162b-4f64-bd5e-3466ef15b162" width="600">
+</p>
+
+**3. States**
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5183374e-1f90-4d24-ac29-7869fa23a01f" width="600">
+</p>
+
+**4. Commands**
+<p align="center">
+<img src="https://github.com/user-attachments/assets/76e69e21-6d09-4e0f-815b-7b2c23dafa66" width="600">
+</p>
+
 ## Results
 - Implemented a robust **state-based control system** using pure Ladder Logic.  
 - Achieved reliable operation of manual and automatic modes via control panel inputs.  
